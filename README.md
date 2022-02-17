@@ -12,5 +12,3 @@ Zainab Hussain
 Version History
 0.1
 Wrote why cats are better than dogs. 
-0.2
-Wrote why dogs are better than cats.
